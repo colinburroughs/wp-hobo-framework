@@ -1,0 +1,6 @@
+Boatafloat makes use of PHP composer.
+
+To work with a clean composer repo that only includes the libraries required by Boatafloat:
+  1. Ensure you have no "vendor" folder.
+  2. Ensure you have no "composer.lock" file.
+  3. run "composer install".
