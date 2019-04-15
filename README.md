@@ -4,6 +4,7 @@ A simple framework for creating WordPress plugins.
 The classes are named this way to ensure loading order when you add them directly to the "must-use" folder. Alternatively upload the entire wp-hobo-framework folder to your "must-use" folder and include the classes via a simple <i>mu-loader.php</i> php file the contents of which would be: 
 
 <i>
+    <pre>
     include 'wp-hobo-framework/Class.01.Autoloader.php';
     include 'wp-hobo-framework/Class.01.HTML.Helper.php';
     include 'wp-hobo-framework/Class.01.Plugin.Settings.php';
@@ -22,4 +23,5 @@ The classes are named this way to ensure loading order when you add them directl
     include 'wp-hobo-framework/Class.03.MVC.php';
     include 'wp-hobo-framework/Class.03.Plugin.Admin.php';
     include 'wp-hobo-framework/Class.04.Plugin.Disable.php';
+    </pre>
 </i>
