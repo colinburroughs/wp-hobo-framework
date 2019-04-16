@@ -1,10 +1,13 @@
 <?php
 
 /**
- * Plugin Name: Hobo Plugin Framework - Plugin Disable.
- * Description: Disable plugins based on regexp for page and ajax requests.
- * Version: 1.0
- * Author: Hobo Digital Ltd.
+ * @wordpress-plugin
+ * Plugin Name:   Hobo Plugin Framework - Plugin Disable..
+ * Plugin URI:    https://www.hobo.co.uk
+ * Description:   Disable plugins based on regexp for page and ajax requests.
+ * Version:       0.0.0
+ * Author:        Hobo Digital Ltd.
+ * Author URI:    https://www.hobo.co.uk
  *
  * eg:
  *   $plugin_disable = new Plugin_Disable([

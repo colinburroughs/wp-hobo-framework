@@ -1,10 +1,13 @@
 <?php
 
 /**
- * Plugin Name: Hobo Plugin Framework - Singleton.
- * Description: Singleton ensures that there will only be one instance of a class, and provides a global access point to that instance.
- * Version: 1.0
- * Author: Hobo Digital Ltd.
+ * @wordpress-plugin
+ * Plugin Name:   Hobo Plugin Framework - Singleton.
+ * Plugin URI:    https://www.hobo.co.uk
+ * Description:   Singleton ensures that there will only be one instance of a class, and provides a global access point to that instance.
+ * Version:       0.0.0
+ * Author:        Hobo Digital Ltd.
+ * Author URI:    https://www.hobo.co.uk
  *
  * <code>
  * $var = Singleton::getInstance('className');

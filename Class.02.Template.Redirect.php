@@ -1,10 +1,13 @@
 <?php
 
 /**
- * Plugin Name: Hobo Plugin Framework - Template Redirect.
- * Description: Abstract class to provide basic Wordpress template redirection.
- * Version: 1.0
- * Author: Hobo Digital Ltd.
+ * @wordpress-plugin
+ * Plugin Name:   Hobo Plugin Framework - Template Redirect.
+ * Plugin URI:    https://www.hobo.co.uk
+ * Description:   Abstract class to provide basic Wordpress template redirection.  Provided implementation for saving, restoring, and uploading plugin settings.
+ * Version:       0.0.0
+ * Author:        Hobo Digital Ltd.
+ * Author URI:    https://www.hobo.co.uk
  */
 
 namespace Hobo\Framework;

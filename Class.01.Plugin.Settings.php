@@ -1,10 +1,13 @@
 <?php
 
 /**
- * Plugin Name: Hobo Plugin Framework - Settings.
- * Description: Abstract class for handling plugin admin settings.
- * Version: 1.0
- * Author: Hobo Digital Ltd.
+ * @wordpress-plugin
+ * Plugin Name:   Hobo Plugin Framework - Settings.
+ * Plugin URI:    https://www.hobo.co.uk
+ * Description:   Abstract class for handling plugin admin settings.
+ * Version:       0.0.0
+ * Author:        Hobo Digital Ltd.
+ * Author URI:    https://www.hobo.co.uk
  */
 
 namespace Hobo\Framework;

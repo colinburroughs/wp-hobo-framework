@@ -1,10 +1,13 @@
 <?php
 
 /**
- * Plugin Name: Hobo Plugin Framework - Request Cache.
- * Description: Abstract class for request cache operations. Cache is only active for the duration of the request.
- * Version: 1.0
- * Author: Hobo Digital Ltd.
+ * @wordpress-plugin
+ * Plugin Name:   Hobo Plugin Framework - Request Cache.
+ * Plugin URI:    https://www.hobo.co.uk
+ * Description:   Class for request cache operations. Cache is only active for the duration of the request.
+ * Version:       0.0.0
+ * Author:        Hobo Digital Ltd.
+ * Author URI:    https://www.hobo.co.uk
  */
 
 namespace Hobo\Framework;

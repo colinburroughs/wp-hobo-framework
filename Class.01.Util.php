@@ -1,10 +1,13 @@
 <?php
 
 /**
- * Plugin Name: Hobo Plugin Framework - Util.
- * Description: A collection of static utility methods.
- * Version: 1.0
- * Author: Hobo Digital Ltd.
+ * @wordpress-plugin
+ * Plugin Name:   Hobo Plugin Framework - Util.
+ * Plugin URI:    https://www.hobo.co.uk
+ * Description:   A collection of static utility methods.
+ * Version:       0.0.0
+ * Author:        Hobo Digital Ltd.
+ * Author URI:    https://www.hobo.co.uk
  */
 
 namespace Hobo\Framework;

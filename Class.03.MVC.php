@@ -1,10 +1,13 @@
 <?php
 
 /**
- * Plugin Name: Hobo Plugin Framework - Model View Controller.
- * Description: Abstract class for ModelViewController (MVC) operations.
- * Version: 1.0
- * Author: Hobo Digital Ltd.
+ * @wordpress-plugin
+ * Plugin Name:   Hobo Plugin Framework - Model View Controller.
+ * Plugin URI:    https://www.hobo.co.uk
+ * Description:   Abstract class for ModelViewController (MVC) operations.
+ * Version:       0.0.0
+ * Author:        Hobo Digital Ltd.
+ * Author URI:    https://www.hobo.co.uk
  */
 
 namespace Hobo\Framework;

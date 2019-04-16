@@ -1,10 +1,13 @@
 <?php
 
 /**
- * Plugin Name: Hobo Plugin Framework - Autoloader.
- * Description: Abstract autoloader class to dynamically load classes instantiated elsewhere in a plugin.
- * Version: 1.0
- * Author: Hobo Digital Ltd.
+ * @wordpress-plugin
+ * Plugin Name:   Hobo Plugin Framework - Autoloader.
+ * Plugin URI:    https://www.hobo.co.uk
+ * Description:   Abstract autoloader class to dynamically load classes instantiated elsewhere in a plugin.
+ * Version:       0.0.0
+ * Author:        Hobo Digital Ltd.
+ * Author URI:    https://www.hobo.co.uk
  *
  * Dynamically loads the class attempting to be instantiated elsewhere in the plugin by looking at the $class_name parameter being passed as an argument.
  *

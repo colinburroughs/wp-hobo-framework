@@ -1,10 +1,13 @@
 <?php
 
 /**
- * Plugin Name: Hobo Plugin Framework - Plugin.
- * Description: Abstract class to provide the base functionality and structure to build plugins.
- * Version: 1.0.0
- * Author: Hobo Digital Ltd.
+ * @wordpress-plugin
+ * Plugin Name:   Hobo Plugin Framework - Plugin.
+ * Plugin URI:    https://www.hobo.co.uk
+ * Description:   Abstract class to provide the base functionality and structure to build plugins.
+ * Version:       0.0.0
+ * Author:        Hobo Digital Ltd.
+ * Author URI:    https://www.hobo.co.uk
  *
  * Your extended class must end with '_Plugin'.
  *
