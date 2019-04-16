@@ -516,6 +516,7 @@ abstract class Settings
 
     public function render_colorpicker(array $args)
     {
+        $class = '';
         if (!isset($args['render_args']['class'])) {
             $args['render_args']['class'] = 'settings-reset-marker color-picker';
         } else {
